@@ -11,9 +11,9 @@
     list-style: none;
     color: white;
     background-color: #600000;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    padding-left: 80px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 50px;
     font-size: 20px;
 }
 
@@ -40,21 +40,25 @@
     color: #c1c1c1;
 }
 
-.logo {
+.logo 
+{
     padding-right: 1150px;
     font-size: 25px;
 }
 
 
-.subjectText {
-    font-size: 18px;
+.subjectText 
+{
+    font-size: 21px;
 }
 
-.subjectTitle {
+.subjectTitle 
+{
     font-size: 25px;
 }
 
-.SubjectDiv {
+.SubjectDiv 
+{
     /*background-color: #600000;*/
     margin-left: 123px;
     margin-right: 120px;
@@ -64,21 +68,30 @@
 }
 
 
-#stockPhoto2 {
+#stockPhoto2 
+{
     height: 335px;
     border: 4px solid #600000;
 }
 
-#bottom-nav {
+#bottom-nav 
+{
     color: white;
     list-style: none;
     background-color: #600000;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    padding-left: 300px;
+    padding-top: 65px;
+    padding-bottom: 65px;
+    padding-left: 245px;
+    font-size: 20px;
 }
 
     #bottom-nav > li > a 
 {
     padding-left: 100px;
+}
+
+.smallSubjectText
+{
+    font-size: 15px;
+    color: slategrey
 }

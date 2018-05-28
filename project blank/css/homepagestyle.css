@@ -1,58 +1,14 @@
-﻿body 
+﻿.subjectTitle
 {
-    margin: 0;
-    padding: 0;
-    font-family: 'arial',Sans-Serif;
+    border-bottom: 4px solid #600000;
 }
 
-
-.nav 
+.subjectText
 {
-    list-style: none;
-    color: white;
-    background-color: #600000;
+    padding-top: 35px;
+}
+
+#indexStockPhoto 
+{
     padding-top: 20px;
-    padding-bottom: 20px;
-    padding-left: 80px;
-    font-size: 20px;
 }
-
-
-.nav > li, #bottom-nav > li {
-    display: inline-block;
-    padding-right: 60px;
-}
-
-.nav > li > a, #bottom-nav > li > a {
-    text-decoration: none;
-    color: white;
-}
-
-.nav > li:hover, #bottom-nav > li:hover {
-    color: #c1c1c1;
-}
-
-.nav > li > a:hover, #bottom-nav > li > a:hover {
-    color: #c1c1c1;
-
-}
-
-.logo {
-    padding-right: 1150px;
-    font-size: 25px;
-}
-
-
-#bottom-nav {
-    color: white;
-    list-style: none;
-    background-color: #600000;
-    padding-top: 50px;
-    padding-bottom: 50px;
-    padding-left: 300px;
-}
-
-    #bottom-nav > li > a {
-        padding-left: 100px;
-    }
-
