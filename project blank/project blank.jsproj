@@ -58,6 +58,7 @@
     <AppxManifest Include="package.appxmanifest">
       <SubType>Designer</SubType>
     </AppxManifest>
+    <Content Include="css\homepagestyle.css" />
     <Content Include="images\computer coding.jpeg" />
     <Content Include="images\friends-on-tablet.jpg" />
     <Content Include="images\Social ppl 2.jpg" />

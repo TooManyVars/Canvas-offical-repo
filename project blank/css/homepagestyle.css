@@ -18,26 +18,23 @@
 }
 
 
-.nav > li, #bottom-nav > li 
-{
+.nav > li, #bottom-nav > li {
     display: inline-block;
     padding-right: 60px;
 }
 
-.nav > li > a, #bottom-nav > li > a 
-{
+.nav > li > a, #bottom-nav > li > a {
     text-decoration: none;
     color: white;
 }
 
-.nav > li:hover, #bottom-nav > li:hover 
-{
+.nav > li:hover, #bottom-nav > li:hover {
     color: #c1c1c1;
 }
 
-.nav > li > a:hover, #bottom-nav > li > a:hover 
-{
+.nav > li > a:hover, #bottom-nav > li > a:hover {
     color: #c1c1c1;
+
 }
 
 .logo {
@@ -45,29 +42,6 @@
     font-size: 25px;
 }
 
-
-.subjectText {
-    font-size: 18px;
-}
-
-.subjectTitle {
-    font-size: 25px;
-}
-
-.SubjectDiv {
-    /*background-color: #600000;*/
-    margin-left: 123px;
-    margin-right: 120px;
-    padding-top: 25px;
-    padding-bottom: 25px;
-    padding-left: 50px;
-}
-
-
-#stockPhoto2 {
-    height: 335px;
-    border: 4px solid #600000;
-}
 
 #bottom-nav {
     color: white;
@@ -78,7 +52,7 @@
     padding-left: 300px;
 }
 
-    #bottom-nav > li > a 
-{
-    padding-left: 100px;
-}
+    #bottom-nav > li > a {
+        padding-left: 100px;
+    }
+
