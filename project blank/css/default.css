@@ -95,3 +95,28 @@
     font-size: 15px;
     color: slategrey;
 }
+
+@media screen and (max-width: 1366px) 
+{
+    .nav 
+    {
+        padding-left: 100px;
+    }
+
+    .logo 
+    {
+        padding-right: 600px;
+        font-size: 22px;
+    }
+
+    #stockPhoto5Span 
+    {
+        padding-left: 50px;
+    }
+
+
+    #bottom-nav > li > a 
+    {
+        padding-left: 60px;
+    }
+}

@@ -35,3 +35,9 @@
 {
     padding-left: 115px;
 }
+
+@media screen and (max-width: 1366px) {
+    #stockPhoto5Span {
+        padding-left: 50px;
+    }
+}
