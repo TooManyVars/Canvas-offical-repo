@@ -10,7 +10,30 @@
 
 #indexStockPhoto 
 {
+    /*padding-top: 20px;*/
+    height: 275px;
+    width: 450px;
+    border: 4px solid #600000;
+}
+
+.indexStockPhotoDiv
+{
     padding-top: 20px;
+}
+
+#indexStockPhoto2 
+{
+    
+    border: 4px solid #600000;
+    height: 300px;
+    width: 450px;
+}
+
+#indexStockPhoto3 
+{
+    border: 4px solid #600000;
+    height: 400px;
+    width: 500px;
 }
 
 a 
