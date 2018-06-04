@@ -11,29 +11,14 @@
 #indexStockPhoto 
 {
     /*padding-top: 20px;*/
-    height: 275px;
-    width: 450px;
+    height: 250px;
+    width: 350px;
     border: 4px solid #600000;
 }
 
 .indexStockPhotoDiv
 {
     padding-top: 20px;
-}
-
-#indexStockPhoto2 
-{
-    
-    border: 4px solid #600000;
-    height: 300px;
-    width: 450px;
-}
-
-#indexStockPhoto3 
-{
-    border: 4px solid #600000;
-    height: 400px;
-    width: 500px;
 }
 
 a 
@@ -45,4 +30,35 @@ a
 a:hover
 {
     color: dodgerblue;
+}
+
+#newsRow1
+{
+    list-style: none;
+}
+
+#newsRow1 > li
+{
+    display: inline-block;
+    padding-right: 250px;
+}
+
+#newsRow2
+{
+    list-style:none;
+}
+
+#newsRow2 > li 
+{
+   display: inline-block;
+   padding-right: 250px;
+}
+
+#story4{
+    padding-left: 113px;
+}
+
+.discussionTopic
+{
+    text-decoration:underline;
 }
