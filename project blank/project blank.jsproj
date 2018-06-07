@@ -59,6 +59,9 @@
       <SubType>Designer</SubType>
     </AppxManifest>
     <Content Include="css\homepagestyle.css" />
+    <Content Include="images\abstract-art-black-8756.jpg" />
+    <Content Include="images\action-buildings-ceremony-919194.jpg" />
+    <Content Include="images\arch-architecture-art-415574.jpg" />
     <Content Include="images\Bipolar bbc.jpg" />
     <Content Include="images\computer coding.jpeg" />
     <Content Include="images\friends-on-tablet.jpg" />

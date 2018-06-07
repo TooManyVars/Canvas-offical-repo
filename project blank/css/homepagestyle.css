@@ -55,10 +55,36 @@ a:hover
 }
 
 #story4{
-    padding-left: 113px;
+    padding-left: 115px;
 }
 
 .discussionTopic
 {
     text-decoration:underline;
+    color: blue
+}
+
+
+#popularDiscussions
+{
+    padding-left: 35px;
+}
+
+.post
+{
+   /*Pad anything contained within this div class out to the middle*/
+   padding-left: 390px;
+   padding-bottom: 50px;
+}
+
+.postPhoto 
+{
+    border: 4px solid #600000;
+    height: 650px;
+    width: 650px;
+}
+
+.Post-title 
+{
+    font-size: 30px;
 }
