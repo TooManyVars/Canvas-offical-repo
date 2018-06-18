@@ -83,6 +83,7 @@
     <Content Include="css\default.css" />
     <Content Include="css\aboutpagestyle.css" />
     <Content Include="index.html" />
+    <Content Include="communities.html" />
     <None Include="project blank_TemporaryKey.pfx" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\$(WMSJSProjectDirectory)\Microsoft.VisualStudio.$(WMSJSProject).targets" />
